@@ -6,9 +6,10 @@ D   = Dependency Inversion principle
 
 * Liskov Substitution Principle
 
-# Formal Defination by Sujeet
+# Formal Defination by Zaiba
 
 # Example by Nomaan
 
-# Why is it needed? by Zaiba
+# Why is it needed? by Sujeet
+
 I'm doing this
