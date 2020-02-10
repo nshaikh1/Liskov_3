@@ -73,11 +73,10 @@ class Tesla: public Car
 	}
 }
 ```
-* In this case we can either divide the class Cars:
+* In this case we can either divide the class Car:
    - Gas Car
    - Electric Car<br>
-   Where each sub type can make use of its own functions. 
-	
+   Where each sub type can make use of its own functions and have common ones in class Car
 </details>
 
 ___
