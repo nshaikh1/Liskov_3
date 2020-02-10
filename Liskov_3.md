@@ -1,4 +1,4 @@
-<h1>Liskov substitution principle<br>
+<h1>Liskov Substitution Principle<br>
 
 
 
@@ -14,7 +14,9 @@
 ___
 <h3> Example by Nomaan:
 
-```c++
+* Example 1. 
+
+- ```c++
 int x = 0;
 ```
 ___
