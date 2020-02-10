@@ -22,9 +22,10 @@ class Car
 {
 	public:
 		void drive();
-		void fuelIndicator();
 		void seatBelt();
 		void airBag();
+		void shiftGear();
+		void fuelIndicator();
 }
 class Ford: public Car
 {
@@ -41,6 +42,31 @@ class Toyota: public Car
 	Can use fuelIndicator
 	....
 	*/
+}
+```
+Ford and Toyota can completely replace any instance of Car, hence LSP is obeyed here.
+</details>
+<details>
+<summary>New Car</summary>
+
+```c++
+class Car
+{
+	public:
+		void drive();
+		void seatBelt();
+		void airBag();
+		void shiftGear();
+		void fuelIndicator();
+}
+class Ford: public Car{}
+class Toyota: public Car{}
+class Tesla: public Car
+{
+	void shiftGear()
+	{
+		//set a message ? Do nothing ?
+	}
 }
 ```
 Ford and Toyota can completely replace any instance of Car, hence LSP is followed here.
