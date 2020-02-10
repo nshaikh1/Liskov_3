@@ -15,7 +15,7 @@ ___
 <h3> Example by Nomaan:
 
 <details>
-<summary>Example 1.</summary>
+<summary>Car</summary>
 
 ```c++
 class Car
@@ -23,19 +23,27 @@ class Car
 	public:
 		void drive();
 		void fuelIndicator();
+		void seatBelt();
+		void airBag();
 }
 class Ford: public Car
 {
-	//Can use Drive function
-	//Can use fuelIndicator
+	/*
+	Can use Drive function
+	Can use fuelIndicator
+	.....
+	*/
 }
 class Toyota: public Car
 {
-	//Can use Drive function
-	//Can use fuelIndicator
+	/*
+	Can use Drive function
+	Can use fuelIndicator
+	....
+	*/
 }
 ```
-
+Ford and Toyota can completely replace any instance of Car, hence LSP is followed here.
 </details>
 
 ___
