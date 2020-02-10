@@ -12,12 +12,12 @@
   - An overridden method of a subclass needs to accept the same input parameter values as the method of the superclass.
   - Let $(x) be a property provable about objects x of type T. Then $(y) should be true for objects y of type S where S is a subtype of T.
 ___
-<h3> Example by Nomaan
+<h3> Example by Nomaan:
 
 ```c++
 int x = 0;
-
-
+```
+___
 <h3>Why is it needed? by Sujeet
 
 I'm doing this
