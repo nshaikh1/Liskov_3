@@ -75,7 +75,7 @@ class Tesla: public Car
 ```
 * In this case we can either divide the class Cars:
    - Gas Car
-   - Electric Car
+   - Electric Car<br>
    Where each sub type can make use of its own functions. 
 	
 </details>
