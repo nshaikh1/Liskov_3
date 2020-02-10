@@ -3,7 +3,7 @@
 
 
 <h3> Formal Defination by Zaiba:
-
+<br>
 * The Liskov Substitution principle was introduced by Barbara Liskov in her conference keynote “Data abstraction” in 1987.
 * It extends the open/closed Principle by focusing on the behavior of a superclass and its subtypes.
 * In a practical Software development environment:
