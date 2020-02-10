@@ -17,7 +17,23 @@ ___
 * Example 1. 
 
 ```c++
-int x = 0;
+class Car
+{
+	public:
+		void drive();
+		void fuelIndicator();
+}
+class Ford: public Car
+{
+	//Can use Drive function
+	//Can use fuelIndicator
+}
+class Toyota: public Car
+{
+	//Can use Drive function
+	//Can use fuelIndicator
+}
+cout<<"Hello">>
 ```
 ___
 <h3>Why is it needed? by Sujeet
