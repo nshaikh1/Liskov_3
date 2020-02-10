@@ -16,7 +16,7 @@ ___
 
 <details>
 <summary>Example 1.</summary>
-<p>
+
 ```c++
 class Car
 {
@@ -34,8 +34,8 @@ class Toyota: public Car
 	//Can use Drive function
 	//Can use fuelIndicator
 }
-\```
-</p>
+```
+
 </details>
 ___
 <h3>Why is it needed? by Sujeet
