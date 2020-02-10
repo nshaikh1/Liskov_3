@@ -15,6 +15,7 @@ Liskov's Substitution Principle: (LSP)
 
 # Example by Nomaan
 
+![Image description](https://github.com/nshaikh1/Liskov_3/blob/master/Recursion_3%20copy.jpg)
 
 # Why is it needed? by Sujeet
 
