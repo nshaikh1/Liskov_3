@@ -1,8 +1,8 @@
 <h1>Liskov substitution principle<br>
 
-* Liskov Substitution Principle
 
-# Formal Defination by Zaiba:
+
+<h3>Formal Defination by Zaiba:
 
 Liskov's Substitution Principle: (LSP)
 	The Liskov Substitution principle was introduced by Barbara Liskov in her conference keynote “Data abstraction” in 1987.
@@ -13,10 +13,10 @@ Liskov's Substitution Principle: (LSP)
 	An overridden method of a subclass needs to accept the same input parameter values as the method of the superclass.
 	Let $(x) be a property provable about objects x of type T. Then $(y) should be true for objects y of type S where S is a subtype of T.
 
-# Example by Nomaan
+<h3>Example by Nomaan
 
 ![Image description](https://github.com/nshaikh1/Liskov_3/blob/master/Recursion_3%20copy.jpg)
 
-# Why is it needed? by Sujeet
+<h3>Why is it needed? by Sujeet
 
 I'm doing this
