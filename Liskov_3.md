@@ -81,6 +81,10 @@ class Tesla: public Car
 
 ___
 
-<h3>Why is it needed? by Sujeet
+<h3>Importance of Liskov Substitution Principle by Sujeet
 
-I'm doing this
+* In simple words the Liskov Substitution Principle states that substituting an object of a subclass should not change the behavior, or the correctness, of the program.
+* Liskov Substitution Principle ecourages code reusability.
+* A code that does not adhere to the Liskov Substitution Principle increases its complexity.
+* The disadvantage of writing code that does not adhere to LSP is that when a subclass can not substitute its parent class there would have to be multiple conditional statements to determine the class or type to handle certain cases differently.
+* If there are changes that are required then these changes would have to be applied in multiple places.
