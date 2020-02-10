@@ -14,6 +14,8 @@
 ___
 <h3> Example by Nomaan
 
+```c++
+int x = 0;
 
 
 <h3>Why is it needed? by Sujeet
