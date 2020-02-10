@@ -65,11 +65,19 @@ class Tesla: public Car
 {
 	void shiftGear()
 	{
-		//set a message ? Do nothing ?
+		/*
+			Set a message? Do nothing? Nope
+			It may be used to update some private members
+			Can be used differently for this sub type
+		*/
 	}
 }
 ```
-Ford and Toyota can completely replace any instance of Car, hence LSP is followed here.
+* In this case we can either divide the class Cars:
+   - Gas Car
+   - Electric Car
+   Where each sub type can make use of its own functions. 
+	
 </details>
 
 ___
