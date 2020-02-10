@@ -14,9 +14,9 @@
 ___
 <h3> Example by Nomaan:
 
-<ex1>
+<details>
 <summary>Example 1.</summary>
-
+<p>
 ```c++
 class Car
 {
@@ -34,8 +34,9 @@ class Toyota: public Car
 	//Can use Drive function
 	//Can use fuelIndicator
 }
-```
-</ex1>
+\```
+</p>
+</details>
 ___
 <h3>Why is it needed? by Sujeet
 
