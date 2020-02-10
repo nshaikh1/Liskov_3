@@ -18,6 +18,8 @@ Liskov's Substitution Principle: (LSP)
 	Let $(x) be a property provable about objects x of type T. Then $(y) should be true for objects y of type S where S is a subtype of T.
 
 # Example by Nomaan
+![GitHub Logo](Recursion_3\ copy.jpg)
+Format: ![Alt Text](url)
 
 # Why is it needed? by Sujeet
 
